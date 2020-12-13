@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transfer_money"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/view_users"
+        android:layout_width="216dp"
+        android:layout_height="57dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="152dp"
+        android:background="@drawable/rounded_button"
+        android:paddingHorizontal="25dp"
+        android:paddingVertical="5dp"
+        android:shadowColor="#1B7A77"
+        android:text="View Users"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:textColorLink="@android:color/holo_green_light"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"></Button>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
