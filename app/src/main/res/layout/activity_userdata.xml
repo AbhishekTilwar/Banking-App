@@ -91,7 +91,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="15dp"
                 android:textStyle="bold"
-                android:text="Eamil Id :"
+                android:text="Email Id :"
                 android:layout_marginRight="20dp"></TextView>
             <TextView
                 android:id="@+id/email"
