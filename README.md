@@ -1,5 +1,13 @@
 ## *Banking-App*
-This banking app is created to complete the task#2 of Graduate Rotational Internship Program(GRIP) by The Sparks Foundation i.e., Basic Banking System in an android app.
+
+--> Designed a banking transaction App using Java to simulate
+the common functions of using a bank account.
+
+--> Used Android Studio and XML to create a GUI that supports actions
+such as an account, transfer, list all accounts, etc.
+
+--> Implemented object-oriented programming practices and used SQL
+for databases.
 
 By using this app,User can see their bank details and can transfer money to other user's. Then, User can able see their transactions history.
 
